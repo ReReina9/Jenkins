@@ -8,7 +8,7 @@
     A simple text based adventure game, similar to the first computer games, like
     Colossal_Cave_Adventure.
   </description>
-  <url>https://github.com/ReReina9/Jenkins/</url>
+  <url>https://github.com/rereina9/Jenkins/</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -16,15 +16,15 @@
 
   <issueManagement>
     <system>github</system>
-    <url>https://github.com/ReReina9/Jenkins/issues/</url>
+    <url>https://github.com/rereina9/Jenkins/issues/</url>
   </issueManagement>
 
   <scm>
-    <url>https://github.com/ReReina9/Jenkins</url>
-    <connection>scm:git:git://github.com/ReReina9/Jenkins.git</connection>
-    <developerConnection>scm:git:git@github.com:ReReina9/Jenkins.git</developerConnection>
+    <url>https://github.com/rereina9/Jenkins</url>
+    <connection>scm:git:git://github.com/rereina9/Jenkins.git</connection>
+    <developerConnection>scm:git:git@github.com:rereina9/Jenkins.git</developerConnection>
   </scm>
-
+  
   <dependencies>
     <!--  Gson: Java to Json conversion -->
     <dependency>
