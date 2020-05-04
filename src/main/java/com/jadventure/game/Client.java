@@ -8,7 +8,7 @@ public class Client {
 
     DataInputStream in;
     DataOutputStream out;
-    String hey;
+    String ciao;
 
     public Client(String serverName, int port) {
         Socket client = null;
