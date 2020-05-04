@@ -24,7 +24,15 @@
     <connection>scm:git:git://github.com/rereina9/Jenkins.git</connection>
     <developerConnection>scm:git:git@github.com:rereina9/Jenkins.git</developerConnection>
   </scm>
-  
+
+  <distributionManagement>
+    <repository>
+      <id>github</id>
+      <name>GitHub ReReina9 Apache Maven Packages</name>
+      <url>https://maven.pkg.github.com/rereina9/Jenkins</url>
+    </repository>
+  </distributionManagement>
+
   <dependencies>
     <!--  Gson: Java to Json conversion -->
     <dependency>
