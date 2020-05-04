@@ -1,6 +1,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.github.progether</groupId>
+  <groupId>com.github.rereina9</groupId>
   <artifactId>jadventure</artifactId>
   <version>0.4.0-SNAPSHOT</version>
   <name>Java Text Adventure</name>
@@ -8,7 +8,7 @@
     A simple text based adventure game, similar to the first computer games, like
     Colossal_Cave_Adventure.
   </description>
-  <url>http://progether.github.io/JAdventure/</url>
+  <url>https://github.com/ReReina9/Jenkins/</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -16,13 +16,13 @@
 
   <issueManagement>
     <system>github</system>
-    <url>https://github.com/Progether/JAdventure/issues/</url>
+    <url>https://github.com/ReReina9/Jenkins/issues/</url>
   </issueManagement>
 
   <scm>
-    <url>https://github.com/Progether/JAdventure</url>
-    <connection>scm:git:git://github.com/Progether/JAdventure.git</connection>
-    <developerConnection>scm:git:git@github.com:Progether/JAdventure.git</developerConnection>
+    <url>https://github.com/ReReina9/Jenkins</url>
+    <connection>scm:git:git://github.com/ReReina9/Jenkins.git</connection>
+    <developerConnection>scm:git:git@github.com:ReReina9/Jenkins.git</developerConnection>
   </scm>
 
   <dependencies>
