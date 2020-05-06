@@ -26,7 +26,7 @@ public class ConversationManagerTest {
     @Test 
     public void testCreation() {
         assertNotNull(cm);
-        assertFalse(cm instanceof ConversationManager);
+        assertTrue(cm instanceof ConversationManager);
     }
 
     @Test
