@@ -43,7 +43,7 @@ public class ConversationManagerTest {
                 Collections.<Integer>emptyList(),
                 ActionType.NONE
         );
-        assertTrue(ConversationManager.matchesConditions(npc, player, line));
+        assertFalse(ConversationManager.matchesConditions(npc, player, line));
     }
 
     @Test
